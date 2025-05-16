@@ -40,7 +40,7 @@ Example: lazymux.conf
 #### Installation and Using Lazymux
 ```bash
 apt install python git
-git clone https://github.com/Gameye98/Lazymux
+git clone https://github.com/wzxczh/termux-Lazymux
 cd Lazymux
 python lazymux.py
 ```
