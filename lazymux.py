@@ -42,7 +42,7 @@ def main():
         print("    [08] sqlmate：SQLmap的辅助工具，实现你对SQLmap的期望功能")
         print("    [09] AstraNmap：用于在计算机网络中查找主机和服务的安全扫描器")
         print("    [10] MapEye：精确的GPS定位追踪器（支持Android、IOS、Windows手机）")
-        print("    [11] Easymap：Nmap快捷方式)
+        print("    [11] Easymap：Nmap快捷方式")
         print("    [12] BlackBox：一个渗透测试框架")
         print("    [13] XD3v：功能强大的工具，可获取手机的所有基本细节信息")
         print("    [14] Crips：在线IP工具集合，可快速获取IP地址、网页和DNS记录信息")
