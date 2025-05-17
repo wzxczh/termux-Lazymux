@@ -41,6 +41,6 @@ Example: lazymux.conf
 ```bash
 apt install python git
 git clone https://github.com/wzxczh/termux-Lazymux
-cd Lazymux
+cd termux-Lazymux
 python lazymux.py
 ```
