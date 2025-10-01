@@ -12,7 +12,7 @@
 
 [![BlackHole Security](core/gitbhs.svg)](https://github.com/BlackHoleSecurity)
 
-# Lazymux
+# termux-Lazymux
 Lazymux 是一款帮助你在安卓系统上轻松安装和使用多款渗透测试与黑客工具的工具。它支持用户快速安装和使用Nmap、SQLMap、Metasploit等多种主流工具(内包含开户工具)，只需通过命令即可完成工具的安装与调用。Lazymux 是开源项目，对渗透测试和道德黑客任务非常有帮助。
 
 用心制作 ❤️
